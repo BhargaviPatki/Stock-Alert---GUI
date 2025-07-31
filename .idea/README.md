@@ -1,7 +1,7 @@
 # Stock Alert App
 
 A Python-based stock alert notifier for NSE (India) stocks using real-time data from Yahoo Finance.
-Gives alerts if a stock croses your customised range.
+Gives alerts if a stock crosses your customised range.
 
 ---
 
