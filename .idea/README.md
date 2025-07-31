@@ -32,7 +32,6 @@ Gives alerts if a stock crosses your customised range.
 
 ```bash
   git clone https://github.com/yourusername/StockAlertApp.git
-cd StockAlertApp
 ```
 
 ### 2. Install dependencies
