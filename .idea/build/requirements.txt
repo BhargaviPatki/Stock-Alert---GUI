@@ -1,0 +1,4 @@
+pandas
+yfinance
+plyer
+win10toast

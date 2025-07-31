@@ -1,0 +1,60 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# IDE related files
+.idea/
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Mac and Windows system files
+.DS_Store
+Thumbs.db
+
+# Log files and temp files
+*.log
+*.tmp
+
+# Environment variables / secrets
+.env
+
+# CSVs or generated data (optional, if auto-generated)
+*.csv
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# IDE related files
+.idea/
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Mac and Windows system files
+.DS_Store
+Thumbs.db
+
+# Log files and temp files
+*.log
+*.tmp
+
+# Environment variables / secrets
+.env
+
+# CSVs or generated data (optional, if auto-generated)
+*.csv
